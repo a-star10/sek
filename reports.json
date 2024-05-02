@@ -1,0 +1,27 @@
+{
+    "last_updated": "2024-05-02 01:29:08.089304",
+    "results": [
+        {
+            "https://gabonactu.com/": {
+                "cms_id": "",
+                "date": "2024-05-02 01:20:44.843376",
+                "report": "/mnt/e/tools/CMSeek/Result/gabonactu.com/cms.json"
+            },
+            "https://kongossanews.info/": {
+                "cms_id": "",
+                "date": "2024-04-30 23:53:29.282073",
+                "report": "/mnt/e/tools/CMSeek/Result/kongossanews.info/cms.json"
+            },
+            "https://magazinesuperstar.com/": {
+                "cms_id": "",
+                "date": "2024-04-24 22:25:37.653043",
+                "report": "/mnt/e/tools/CMSeek/Result/magazinesuperstar.com/cms.json"
+            },
+            "https://vatricof.com/": {
+                "cms_id": "",
+                "date": "2024-04-24 23:32:03.044389",
+                "report": "/mnt/e/tools/CMSeek/Result/vatricof.com/cms.json"
+            }
+        }
+    ]
+}
